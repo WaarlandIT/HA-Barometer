@@ -8,3 +8,4 @@ There are some things you need.
 - You also need 6 images, you can find them in the weather folder in this repo.
 - Some yaml code
    
+It's still work in progress
