@@ -5,6 +5,6 @@ The Barometer I used is based on Richi Bowzer's barometer but couldn't find his 
 
 There are some things you need.
 - In HACS you need to install the Frontend addon "Flexible Horseshoe Card"
-- You also need 5 images, you can find them in the weather folder in this repo.
+- You also need 6 images, you can find them in the weather folder in this repo.
 - Some yaml code
    
