@@ -6,6 +6,7 @@ elements:
     show_name: false
     style:
       width: 90%
+      height: 100%
   - type: custom:flex-horseshoe-card
     entities:
       - entity: sensor.gw1200a_relative_pressure
